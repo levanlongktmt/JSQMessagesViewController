@@ -28,8 +28,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "88A25F0119D8DEC400924534"
-               BuildableName = "JSQMessages.app"
+               BlueprintIdentifier = "F4806F731FBF7A0F00B2B5E8"
+               BuildableName = "JSQMessages.framework"
                BlueprintName = "JSQMessages"
                ReferencedContainer = "container:JSQMessages.xcodeproj">
             </BuildableReference>
@@ -54,6 +54,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
@@ -70,8 +71,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
+            BlueprintIdentifier = "F4806F731FBF7A0F00B2B5E8"
+            BuildableName = "JSQMessages.framework"
             BlueprintName = "JSQMessages"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
@@ -83,6 +84,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -93,8 +95,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
+            BlueprintIdentifier = "F4806F731FBF7A0F00B2B5E8"
+            BuildableName = "JSQMessages.framework"
             BlueprintName = "JSQMessages"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
@@ -112,8 +114,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
+            BlueprintIdentifier = "F4806F731FBF7A0F00B2B5E8"
+            BuildableName = "JSQMessages.framework"
             BlueprintName = "JSQMessages"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
